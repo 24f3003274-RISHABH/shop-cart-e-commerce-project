@@ -1,0 +1,4 @@
+e-commerce-project/
+  ├── frontend/   # React app  for starting the app -> npm start 
+  └── backend/    # Node.js + Express server   for starting the app -> node.index.js
+  
